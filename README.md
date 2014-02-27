@@ -102,7 +102,7 @@ immediately available, you can use `once-wait-for` directive to wait till `kitte
 Thanks both to @Pasvaz for bindonce and @abourget for $watch fighters, as both modules were inspiration and starting point for creating this module.
 
 ## Similar projects
-* [bindonce](https://github.com/Pasvaz/bindonce) - similar, but requires addtional bindonce directive which wraps other dindonce directives.
+* [bindonce](https://github.com/Pasvaz/bindonce) - similar, but requires addtional bindonce directive which wraps other bindonce directives.
 * [watch fighters](https://github.com/abourget/abourget-angular) - similar, but doesn't handle case when there is no data yet to bind, simply binds nothing, so doesn't work with promises.
 
 ## License
